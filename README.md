@@ -11,4 +11,4 @@
 ![React](https://img.shields.io/badge/-React-0097a8?style=flat-square&logo=React)
 ![WebPack](https://img.shields.io/badge/-Webpack-purple?style=flat-square&logo=Webpack)
 
-Связаться со мной - [<img src="https://e7.pngegg.com/pngimages/662/103/png-clipart-telegram-initial-coin-offering-logo-messaging-apps-instant-messaging-presale-miscellaneous-blue.png" width="25px">](https://t.me/DedGasPa4o)
+Связаться со мной - [<img src="http://hopshop.uz/help/assets/images/3b542c6f-a7f7-11ea-82ed-fa163e7d9ee1.png" width="25px">](https://t.me/DedGasPa4o)
