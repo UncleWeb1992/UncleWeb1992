@@ -4,9 +4,9 @@
 
 Мой технологический Stack:
 
-![HTML](https://img.shields.io/badge/-HTML%2FCSS-orange?style=flat-square&logo=appveyor)
-![JavaScript](https://img.shields.io/badge/-JavaScript-c2bf00?style=flat-square&logo=appveyor)
-![React](https://img.shields.io/badge/-React-0097a8?style=flat-square&logo=appveyor)
-![WebPack](https://img.shields.io/badge/-Webpack-purple?style=flat-square&logo=appveyor)
+![HTML](https://img.shields.io/badge/-HTML%2FCSS-orange?style=flat-square&logo=html)
+![JavaScript](https://img.shields.io/badge/-JavaScript-c2bf00?style=flat-square&logo=JavaScript)
+![React](https://img.shields.io/badge/-React-0097a8?style=flat-square&logo=React)
+![WebPack](https://img.shields.io/badge/-Webpack-purple?style=flat-square&logo=Webpack)
 
 conrtacts
