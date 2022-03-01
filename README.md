@@ -11,4 +11,4 @@
 ![React](https://img.shields.io/badge/-React-0097a8?style=flat-square&logo=React)
 ![WebPack](https://img.shields.io/badge/-Webpack-purple?style=flat-square&logo=Webpack)
 
-Связаться со мной - [<img src="http://hopshop.uz/help/assets/images/3b542c6f-a7f7-11ea-82ed-fa163e7d9ee1.png" width="25px">](https://t.me/DedGasPa4o)
+Связаться со мной - [<img src="https://img.favpng.com/5/18/6/computer-icons-portable-network-graphics-telegram-business-partnership-png-favpng-M9W1WNYeCbMkFSg4vXRfatcYp.jpg" width="25px">](https://t.me/DedGasPa4o)
