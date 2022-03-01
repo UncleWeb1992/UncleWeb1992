@@ -11,3 +11,4 @@
 ![React](https://img.shields.io/badge/-React-0097a8?style=flat-square&logo=React)
 ![WebPack](https://img.shields.io/badge/-Webpack-purple?style=flat-square&logo=Webpack)
 
+Связаться со мной - ![Telegramm](https://t.me/DedGasPa4o)
