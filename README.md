@@ -4,7 +4,7 @@
 
 Мой технологический Stack:
 
-![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=HTML5)
+![HTML](https://img.shields.io/badge/-HTML-7e9438?style=flat-square&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-2622aa?style=flat-square&logo=CSS3)
 ![Scss](https://img.shields.io/badge/-SCSS-a82424?style=flat-square&logo=sass)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-3f834f?style=flat-square&logo=JavaScript)
