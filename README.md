@@ -4,6 +4,6 @@
 
 Мой технологический Stack:
 
-![Flutter](https://img.shields.io/badge/-HTML%2FCSS-orange?style=flat-square&logo=appveyor)
+[Flutter](https://img.shields.io/badge/-HTML%2FCSS-orange?style=flat-square&logo=appveyor)
 
 conrtacts
