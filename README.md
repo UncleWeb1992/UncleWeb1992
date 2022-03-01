@@ -4,6 +4,6 @@
 
 Мой технологический Stack:
 
-![HTML/CSS](https://img.shields.io/badge/HTML/CSS-#ccb800?style=flat-square&logo=appveyor)
+![HTML](https://img.shields.io/badge/HTML-#ccb800?style=flat-square&logo=appveyor)
 
 conrtacts
