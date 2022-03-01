@@ -4,9 +4,9 @@
 
 Мой технологический Stack:
 
-![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=HTML)
-![CSS](https://img.shields.io/badge/-CSS-silver?style=flat-square&logo=CSS)
-![Scss](https://img.shields.io/badge/-Scss-aa2294?style=flat-square&logo=sass)
+![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-silver?style=flat-square&logo=CSS3)
+![Scss](https://img.shields.io/badge/-SCSS-aa2294?style=flat-square&logo=sass)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-3f834f?style=flat-square&logo=JavaScript)
 ![React](https://img.shields.io/badge/-React-0097a8?style=flat-square&logo=React)
 ![WebPack](https://img.shields.io/badge/-Webpack-purple?style=flat-square&logo=Webpack)
