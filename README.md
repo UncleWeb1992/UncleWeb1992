@@ -13,4 +13,4 @@
 
 Связаться со мной:
 
-[![Telegramm](https://img.shields.io/badge/-Telegram-24214a?style=flat-square&logo=Telegram)](https://t.me/DedGasPa4o)
+[![Telegramm](https://img.shields.io/badge/-Telegram-24214a?style=for-the-badge&logo=Telegram)](https://t.me/DedGasPa4o)
