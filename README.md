@@ -11,4 +11,4 @@
 ![React](https://img.shields.io/badge/-React-0097a8?style=flat-square&logo=React)
 ![WebPack](https://img.shields.io/badge/-Webpack-purple?style=flat-square&logo=Webpack)
 
-## Связаться со мной - [![Telegramm](https://img.shields.io/badge/-Telegram-003da6?style=social&logo=Telegram)](https://t.me/DedGasPa4o)
+## Связаться со мной - [![Telegramm](https://img.shields.io/badge/-Telegram-003da6?style=for-the-badge&logo=Telegram)](https://t.me/DedGasPa4o)
