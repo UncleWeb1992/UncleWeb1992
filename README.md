@@ -10,7 +10,7 @@
 [![JavaScript](https://img.shields.io/badge/-JavaScript-3f834f?style=flat-square&logo=JavaScript)](https://learn.javascript.ru/)
 [![React](https://img.shields.io/badge/-React-0097a8?style=flat-square&logo=React)](https://reactjs.org/)
 [![WebPack](https://img.shields.io/badge/-Webpack-purple?style=flat-square&logo=Webpack)](https://webpack.js.org/)
-[![NodeJs](https://img.shields.io/badge/-NodeJS-3c7673?style=flat-square&logo=Node.js)](https://nodejs.org/en/)
+[![NodeJs](https://img.shields.io/badge/-NodeJS-red?style=flat-square&logo=Node.js)](https://nodejs.org/en/)
 
 ## Связаться со мной:
 
