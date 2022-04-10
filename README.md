@@ -4,12 +4,13 @@
 
 Мой технологический Stack:
 
-[![HTML](https://img.shields.io/badge/-HTML-9cf?style=flat-square&logo=HTML5)]
-[![CSS](https://img.shields.io/badge/-CSS-2622aa?style=flat-square&logo=CSS3)]
-[![Scss](https://img.shields.io/badge/-SCSS-blueviolet?style=flat-square&logo=sass)]
-[![JavaScript](https://img.shields.io/badge/-JavaScript-3f834f?style=flat-square&logo=JavaScript)]
-[![React](https://img.shields.io/badge/-React-0097a8?style=flat-square&logo=React)]
-[![WebPack](https://img.shields.io/badge/-Webpack-purple?style=flat-square&logo=Webpack)]
+[![HTML](https://img.shields.io/badge/-HTML-9cf?style=flat-square&logo=HTML5)](http://htmlbook.ru/html5)
+[![CSS](https://img.shields.io/badge/-CSS-2622aa?style=flat-square&logo=CSS3)](http://htmlbook.ru/css3)
+[![Scss](https://img.shields.io/badge/-SCSS-blueviolet?style=flat-square&logo=sass)](https://sass-scss.ru/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-3f834f?style=flat-square&logo=JavaScript)](https://learn.javascript.ru/)
+[![React](https://img.shields.io/badge/-React-0097a8?style=flat-square&logo=React)](https://reactjs.org/)
+[![WebPack](https://img.shields.io/badge/-Webpack-purple?style=flat-square&logo=Webpack)](https://webpack.js.org/)
+[![NodeJs](https://img.shields.io/badge/-NodeJs-3c7673?style=flat-square&logo=NodeJs)](https://nodejs.org/en/)
 
 ## Связаться со мной:
 
