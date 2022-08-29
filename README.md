@@ -11,6 +11,9 @@
 [![React](https://img.shields.io/badge/-React-0097a8?style=flat-square&logo=React)](https://reactjs.org/)
 [![WebPack](https://img.shields.io/badge/-Webpack-purple?style=flat-square&logo=Webpack)](https://webpack.js.org/)
 [![NodeJs](https://img.shields.io/badge/-NodeJS-silver?style=flat-square&logo=Node.js)](https://nodejs.org/en/)
+[![Redux](https://img.shields.io/badge/-Redux-3d0ddb?style=flat-square&logo=Redux)](https://redux-toolkit.js.org/)
+[![Docker](https://img.shields.io/badge/-Docker-546305?style=flat-square&logo=Docker)](https://www.docker.com/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-216305?style=flat-square&logo=MongoDB)](https://www.mongodb.com/)
 
 ## Связаться со мной:
 
