@@ -10,7 +10,7 @@
 [![JavaScript](https://img.shields.io/badge/-JavaScript-3f834f?style=flat-square&logo=JavaScript)](https://learn.javascript.ru/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-05635d?style=flat-square&logo=TypeScript)](https://www.mongodb.com/)
 [![React](https://img.shields.io/badge/-React-0097a8?style=flat-square&logo=React)](https://reactjs.org/)
-[![ReactNative](https://img.shields.io/badge/-ReactNative-0097a8?style=flat-square&logo=ReactNative)](https://reactnative.dev/)
+[![ReactNative](https://img.shields.io/badge/-React-0097a8?style=flat-square&logo=ReactNative)](https://reactnative.dev/)
 [![WebPack](https://img.shields.io/badge/-Webpack-purple?style=flat-square&logo=Webpack)](https://webpack.js.org/)
 [![NodeJs](https://img.shields.io/badge/-NodeJS-silver?style=flat-square&logo=Node.js)](https://nodejs.org/en/)
 [![Redux](https://img.shields.io/badge/-Redux-3d0ddb?style=flat-square&logo=Redux)](https://redux-toolkit.js.org/)
