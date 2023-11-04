@@ -24,4 +24,4 @@
 ## Связаться со мной:
 
 [![Telegramm](https://img.shields.io/badge/-Telegram-24214a?style=for-the-badge&logo=Telegram)](https://t.me/DedGasPa4o)
-[![Vk](https://img.shields.io/badge/-ВКОНТАКТЕ-24214a?style=for-the-badge&logo=Vk)](https://vk.com/tahirkataha)
+[![EMail](https://img.shields.io/badge/-Mail-24214a?style=for-the-badge&logo=Mail)](https://e.mail.ru/inbox/?back=1)
