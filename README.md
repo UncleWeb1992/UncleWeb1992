@@ -17,10 +17,6 @@
 [![Docker](https://img.shields.io/badge/-Docker-546305?style=flat-square&logo=Docker)](https://www.docker.com/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-216305?style=flat-square&logo=MongoDB)](https://www.mongodb.com/)
 
-## Gitlab - Коммерческие проекты
-
-[![Gitlab](https://img.shields.io/badge/-Gitlab-24214a?style=for-the-badge&logo=Gitlab)](https://gitlab.com/UncleWeb1992)
-
 ## Связаться со мной:
 
 [![Telegramm](https://img.shields.io/badge/-Telegram-24214a?style=for-the-badge&logo=Telegram)](https://t.me/DedGasPa4o)
