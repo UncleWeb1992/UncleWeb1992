@@ -20,5 +20,5 @@
 
 ## Связаться со мной:
 
-[![Telegramm](https://img.shields.io/badge/-Telegram-24214a?style=for-the-badge&logo=Telegram)](https://t.me/DedGasPa4o)
+[![Telegramm](https://img.shields.io/badge/-Telegram-24214a?style=for-the-badge&logo=Telegram)](https://t.me/soft_taha_dev)
 [![EMail](https://img.shields.io/badge/-Email-24214a?style=for-the-badge&logo=maildotru)](https://e.mail.ru/inbox/?back=1)
